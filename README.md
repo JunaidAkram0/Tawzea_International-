@@ -9,7 +9,7 @@ Founded in 2004, Tawzea International Group is a leading Saudi water and wastewa
 
 ---
 
-#### Strategic Objectives
+## Strategic Objectives
 
 * Improving plant performance monitoring
 * Reducing water losses and enhancing water utilization
@@ -20,7 +20,7 @@ Founded in 2004, Tawzea International Group is a leading Saudi water and wastewa
 
 ---
 
-#### Dataset Structure
+## Dataset Structure
 
 The dataset integrates operational and customer service metrics, combining data from wastewater and RO plants with customer feedback and incident tracking. The metrics include:
 
@@ -29,11 +29,12 @@ The dataset integrates operational and customer service metrics, combining data 
 * **Incident Tracking**: Breaks or overflows per km, incident rate per hour
 * **Customer Service**: Satisfaction %, total complaints, complaint type distribution, resolution rate, and average response time
 
+![Alt text for image](https://i.postimg.cc/CLhxxgjc/datastructure.png)
 
 
 ---
 
-#### Insights Summary
+## Insights Summary
 
 **Plant Utilization Rate**
 
@@ -71,7 +72,7 @@ The dataset integrates operational and customer service metrics, combining data 
 
 ---
 
-#### Recommendations
+## Recommendations
 
 * **Water Utilization**: Focus on improving Wastewater Plant’s utilization rate through increased recycling and reuse initiatives to raise from 36.42% toward industry benchmarks
 * **Quality Compliance**: Investigate root causes of RO Plant’s lower compliance (86.49%) and implement stricter quality control procedures
@@ -79,4 +80,14 @@ The dataset integrates operational and customer service metrics, combining data 
 * **Incident Reduction**: Address operational risks leading to Wastewater Plant’s higher incident rate (0.05/h)
 * **Customer Service**: Reduce average response time to under 3 hours to boost customer satisfaction above 75%
 * **Complaint Type Focus**: Prioritize improvements in water pressure and billing system accuracy, which account for over two-thirds of complaints
+
+---
+
+## Dashboard
+
+
+![Alt text for image](https://i.postimg.cc/ryC5HqVj/IMAGE-1.png)
+![Alt text for image](https://i.postimg.cc/m2mCbVFF/IMAGE-2.png)
+![Alt text for image](https://i.postimg.cc/kXJW3LDm/IMAGE-3.png)
+![Alt text for image](https://i.postimg.cc/rsJWRNn3/IMAGE-4.png)
 
