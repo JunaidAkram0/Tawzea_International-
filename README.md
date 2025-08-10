@@ -1,6 +1,6 @@
 # Tawzea International Group – Project Overview
 
-## The goal of this project is to develop and implement a data-driven Key Performance Indicator (KPI) framework for Tawzea International Group, a leading water utility and distribution company. This initiative aims to enhance operational efficiency, optimize resource utilization, and improve service reliability through continuous performance monitoring across both wastewater and RO (Reverse Osmosis) water plants.
+### The goal of this project is to develop and implement a data-driven Key Performance Indicator (KPI) framework for Tawzea International Group, a leading water utility and distribution company. This initiative aims to enhance operational efficiency, optimize resource utilization, and improve service reliability through continuous performance monitoring across both wastewater and RO (Reverse Osmosis) water plants.
 
 Founded in 2004, Tawzea International Group is a leading Saudi water and wastewater service provider, operating across all 13 regions of the Kingdom. The company delivers eco-friendly and efficient water distribution, wastewater treatment, and environmental services while adhering to global quality standards. Now they have implemented a comprehensive KPI dashboard, Tawzea aims to strengthen data-driven decision-making to achieve two primary objectives:
 
